@@ -1,7 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning ASP .NET
-<br>
-📫 How to reach me ma5740@fayoum.edu.eg<br>
+🌱 I’m currently learning ASP .NET<br>📫 How to reach me ma5740@fayoum.edu.eg<br>
 
 
 ## 🌐 Socials:
@@ -22,6 +20,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fcimahmoud&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fcimahmoud&icon=0&color=1)](https://visitcount.itsvg.in)
