@@ -57,8 +57,6 @@
 
 ---
 
-<br clear="both">
-
-<img src="<img src="https://raw.githubusercontent.com/fcimahmoud/fcimahmoud/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fcimahmoud/fcimahmoud/output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
