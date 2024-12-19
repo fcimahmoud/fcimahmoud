@@ -2,10 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Mahmoud Ahmed</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
+<br>
+<br>
 <img align="right" alt="Coding" width="400" src="https://github.com/fcimahmoud/fcimahmoud/blob/main/giphy.gif">
 
 <br>
-
+<br>
+<br>
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fcimahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="fcimahmoud" /> </p>
 
 - 🌱 I’m currently learning **ASP .NET**
@@ -14,8 +19,12 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-ahmed-3291b7229) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmoudcs112) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahmoudahmed6432) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Blyatshoo#8701) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahmoudcs112) [![CodeForces](https://img.shields.io/badge/CodeForces-445f9d?logo=CodeForces&logoColor=white)](https://codeforces.com/profile/blyatsho)
 
 <br>
@@ -50,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fcimahmoud/fcimahmoud/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/fcimahmoud/fcimahmoud/blob/main/snake.yml" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
