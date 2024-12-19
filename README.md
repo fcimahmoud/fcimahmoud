@@ -4,11 +4,8 @@
 <h3 align="center">A passionate backend developer from Egypt</h3>
 <br>
 <br>
-<img align="right" alt="Coding" width="400" src="https://github.com/fcimahmoud/fcimahmoud/blob/main/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/fcimahmoud/fcimahmoud/blob/main/giphy.gif">
 
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -21,9 +18,6 @@
 - 💬 Ask me about **C#, ASP.NET Core, REST APIs, MVC, EF Core, and SQL Server.**
   
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -50,6 +44,7 @@
   </a>
 </div>
 
+<br>
 <br>
 <br>
 
@@ -101,6 +96,7 @@
   <img width="15" />
 </div>
 
+<br>
 <br>
 <br>
 
