@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/fcimahmoud/fcimahmoud/blob/main/snake.yml" alt="Snake animation" />
+<img src="<img src="https://raw.githubusercontent.com/fcimahmoud/fcimahmoud/output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
