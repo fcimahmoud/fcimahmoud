@@ -1,8 +1,8 @@
-![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)
+![MasterHead](https://github.com/fcimahmoud/fcimahmoud/blob/main/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Hi 👋, I'm Mahmoud Ahmed</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://github.com/fcimahmoud/fcimahmoud/blob/main/giphy.gif">
 
 <br>
 
@@ -15,7 +15,7 @@
 <br>
 <br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-ahmed-3291b7229) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmoudcs112) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahmoudahmed6432) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Blyatshoo#8701) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahmoudcs112) [![CodeForces](https://img.shields.io/badge/CodeForces-445f9d?logo=CodeForces&logoColor=white)](https://codeforces.com/profile/blyatsho)
 
 <br>
@@ -47,5 +47,9 @@
 
 
 ---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/fcimahmoud/fcimahmoud/output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
